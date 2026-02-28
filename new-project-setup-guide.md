@@ -229,6 +229,17 @@ git add . && git commit -m "docs: add {新規プロジェクト名} config" && g
 
 ---
 
+## 使い方
+|プロンプト|実行される Skill
+|---|---|
+|「タスクを追加してください」|task-manage|
+|「タスクを完了にしてください」|task-manage|
+|「コミット＆プッシュしてください」|commit-push|
+|「v1.5.0をリリースします」|release-draft|
+|「ドラフト版の完成を確認しました」|release-publish|
+
+---
+
 ## 参照リンク
 
 - テンプレートリポジトリ: https://github.com/osprey74/claude-code-workflows
