@@ -93,6 +93,12 @@ Skills は以下のセクションを CLAUDE.md から参照します:
 - [GitHub CLI (`gh`)](https://cli.github.com/) — リリース系 Skills で使用
 - Rust / Cargo — Tauri プロジェクトのバージョン更新で使用
 
+## Support
+
+If you find this project useful, consider supporting its development:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5e5b?logo=ko-fi)](https://ko-fi.com/osprey74)
+
 ## License
 
 MIT
